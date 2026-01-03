@@ -187,6 +187,14 @@ run
 npx tsx watch src/server.ts
 ```
 
+# CREATE MODULES PATTRAN
+
+```
+Example
+
+src/modules/post
+```
+
 # 8. Write your first query
 
 Create a script.ts file to test your setup:
